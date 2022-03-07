@@ -18,7 +18,7 @@ classifiers = [
 
 [tool.poetry.dependencies]
 python = "^3.6"
-ecdsa = "^0.15"
+ecdsa = "^0.16"
 requests = "^2.23.0"
 base58 = "^2.0.0"
 pycryptodome = "^3.9.7"
